@@ -1,3 +1,5 @@
 learn c...
-<<C Primer Plus>>
+
+C Primer Plus
+
 figthing!
